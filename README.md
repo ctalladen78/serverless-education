@@ -11,9 +11,6 @@ These example applications are designed to help learners to practice and master 
 | Python with Unittests      | [Aishwarya26l](https://github.com/Aishwarya26l)        | [Demo](https://dmvd8lmqa9.execute-api.us-east-1.amazonaws.com/default/pythonTestingSuite)      |  [Repo](https://github.com/Aishwarya26l/pythonTestingSuite)||
 |Python with Doctests    |  [Ourstress](https://github.com/Ourstress)        | [Demo](https://lx09eyssj6.execute-api.us-east-1.amazonaws.com/default/doctestPythonLearning)      |  [One File](https://github.com/Ourstress/lambdaFunctions/blob/master/doctestActivity2.py) ||
 |Write More Pythonic Code  |  [Ourstress](https://github.com/Ourstress)  | [Demo](https://qkfgaek7c4.execute-api.us-east-1.amazonaws.com/default/pythonicCode)      |   [One File](https://github.com/Ourstress/lambdaFunctions/blob/master/pythonicCodeActivity.py) [Two Files](https://github.com/scboesch/serverless-education/tree/master/2Files/writePythonicCode)||
-| Jupyter Notebooks  |     |  Demo     |  Repo ||
-| AWS Lambda  |   | Demo      |   Repo ||
-| Learn Emojis with Python | [Ourstress](https://github.com/Ourstress) | [Demo]() |   [Two Files]() ||
 | Learn Emojis with Node   | [Ourstress](https://github.com/Ourstress) | [Demo](https://qc4h62xt56.execute-api.us-east-1.amazonaws.com/default/minimalEmojiReplacer) |   [Two Files](/2Files/emojiReplacer) ||
 | Character Replacement  | [Ourstress](https://github.com/Ourstress)   | [Demo](https://j30d9ve863.execute-api.us-east-1.amazonaws.com/default/emojiReplacer)      |   [One File](https://github.com/Ourstress/lambdaFunctions/blob/master/emojiReplacer.js) ||
 |HTML | [Ourstress](https://github.com/Ourstress)   | [Demo](https://0vww2yw6y1.execute-api.us-east-1.amazonaws.com/default/fiveQuestionsHtmlActivity)      |   [One File](https://github.com/Ourstress/lambdaFunctions/blob/master/htmlActivity.py) ||
