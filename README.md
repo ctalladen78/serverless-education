@@ -5,19 +5,19 @@ These example applications are designed to help learners to practice and master 
 
 | Description | Author | Demo | Source | User Needs Research |  Product Overview | Deployment Walkthrough |
 | ------------|:------:|:----:|:------:|:-----:|:-----:|:-----:|
-| Javascript         |[Aishwarya26l](https://github.com/Aishwarya26l)| [Demo](https://ak0y53o2c4.execute-api.us-east-1.amazonaws.com/default/jsCodeForTest) | [Repo](https://github.com/Aishwarya26l/jestRunner-edit-source-code)         |||Cloud9 GitHub Actions|
-| Javascript Test Coverage  | [Aishwarya26l](https://github.com/Aishwarya26l)   | [Demo](https://782y5jejz5.execute-api.us-east-1.amazonaws.com/default/jestRunner)      |   [Repo](https://github.com/Aishwarya26l/jestRunner) |||TBD|
-| Vue | [Aishwarya26l](https://github.com/Aishwarya26l)   | [Demo](https://7n7tym5499.execute-api.us-east-1.amazonaws.com/default/vueTest) | [Repo](https://github.com/Aishwarya26l/vueTestingSuite)         |||TBD|
-| R on AWS Lambda      | [Aishwarya26l](https://github.com/Aishwarya26l)        | [Demo](https://11i42lvxd2.execute-api.us-east-1.amazonaws.com/Prod/app/)      |  [Repo](https://github.com/Aishwarya26l/sam-R-Lambda)|||TBD|
-| Java     |        |      |  |||TBD|
-| Python with Unittests      | [Aishwarya26l](https://github.com/Aishwarya26l)        | [Demo](https://dmvd8lmqa9.execute-api.us-east-1.amazonaws.com/default/pythonTestingSuite)      |  [Repo](https://github.com/Aishwarya26l/pythonTestingSuite)|||TBD|
-|   | Picachu   |  |    ||||
-|   | Infinity   |  |    ||||
-|   | Oof   |  |    ||||
-|   | 1d4   |  |    ||||
-|   | Team 1   |  |    ||||
-|   | Team Frame   |  |    ||||
-|   | Richu   |  |    ||||
+| Javascript               |[Aishwarya26l](https://github.com/Aishwarya26l)| [Demo](https://ak0y53o2c4.execute-api.us-east-1.amazonaws.com/default/jsCodeForTest) | [Repo](https://github.com/Aishwarya26l/jestRunner-edit-source-code)         |||Cloud9 GitHub Actions|
+| Javascript Test Coverage | [Aishwarya26l](https://github.com/Aishwarya26l)   | [Demo](https://782y5jejz5.execute-api.us-east-1.amazonaws.com/default/jestRunner)      |   [Repo](https://github.com/Aishwarya26l/jestRunner) |||TBD|
+| Vue                      | [Aishwarya26l](https://github.com/Aishwarya26l)   | [Demo](https://7n7tym5499.execute-api.us-east-1.amazonaws.com/default/vueTest) | [Repo](https://github.com/Aishwarya26l/vueTestingSuite)         |||TBD|
+| R on AWS Lambda          | [Aishwarya26l](https://github.com/Aishwarya26l)        | [Demo](https://11i42lvxd2.execute-api.us-east-1.amazonaws.com/Prod/app/)      |  [Repo](https://github.com/Aishwarya26l/sam-R-Lambda)|||TBD|
+| Java                     |        |      |  |||TBD|
+| Python with Unittests    | [Aishwarya26l](https://github.com/Aishwarya26l)        | [Demo](https://dmvd8lmqa9.execute-api.us-east-1.amazonaws.com/default/pythonTestingSuite)      |  [Repo](https://github.com/Aishwarya26l/pythonTestingSuite)|||TBD|
+|PanDuh - Pandas Made Easy | Picachu   | [Demo](https://dozw7xoy73.execute-api.us-east-1.amazonaws.com/Prod/) |    ||||
+|O.O.Python                | Infinity  | [Demo](https://ykab5hzm96.execute-api.us-east-1.amazonaws.com/Prod/) |    ||||
+|tutoR                     | Oof       | [Demo](https://kh14xmo3v0.execute-api.us-east-1.amazonaws.com/default/tutor_week11_test) |    ||||
+|Statistical Learning      | 1d4       | [Demo](https://1b1u6ce6m6.execute-api.us-east-1.amazonaws.com/Prod/index.html) |    ||||
+|CodeTranslate             | Team 1    | [Demo](http://dev-codetranslate797530.s3-website-eu-west-1.amazonaws.com/)  |    ||||
+|Pandas for Everyone       | Team Frame   | [Demo](https://ozrho39uxh.execute-api.us-east-1.amazonaws.com/default/pandas-frame) |    ||||
+|Python to JavaScript | Richu   | [Demo](https://justussoh.github.io/BT3103-P2J/#/) |    ||||
 |Python with Doctests    |  [Ourstress](https://github.com/Ourstress)        | [Demo](https://lx09eyssj6.execute-api.us-east-1.amazonaws.com/default/doctestPythonLearning)      |  [One File](https://github.com/Ourstress/lambdaFunctions/blob/master/doctestActivity2.py) ||
 |Write More Pythonic Code  |  [Ourstress](https://github.com/Ourstress)  | [Demo](https://qkfgaek7c4.execute-api.us-east-1.amazonaws.com/default/pythonicCode)      |   [One File](https://github.com/Ourstress/lambdaFunctions/blob/master/pythonicCodeActivity.py) [Two Files](https://github.com/scboesch/serverless-education/tree/master/2Files/writePythonicCode)||
 | Learn Emojis with Node   | [Ourstress](https://github.com/Ourstress) | [Demo](https://qc4h62xt56.execute-api.us-east-1.amazonaws.com/default/minimalEmojiReplacer) |   [Two Files](/2Files/emojiReplacer) ||
