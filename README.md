@@ -11,6 +11,7 @@ These example applications are designed to help learners to practice and master 
 | R on AWS Lambda          | [Aishwarya26l](https://github.com/Aishwarya26l)        | [Demo](https://11i42lvxd2.execute-api.us-east-1.amazonaws.com/Prod/app/)      |  [Repo](https://github.com/Aishwarya26l/sam-R-Lambda)|||TBD|
 | Java                     |        |      |  |||TBD|
 | Python with Unittests    | [Aishwarya26l](https://github.com/Aishwarya26l)        | [Demo](https://dmvd8lmqa9.execute-api.us-east-1.amazonaws.com/default/pythonTestingSuite)      |  [Repo](https://github.com/Aishwarya26l/pythonTestingSuite)|||TBD|
+| AWS SAM Templates        | [Aishwarya26l](https://github.com/Aishwarya26l)        | [Demo](https://9takbarzt0.execute-api.ap-southeast-1.amazonaws.com/Prod/app/)      |  [Repo](https://github.com/Aishwarya26l/sam-testing)|||TBD|
 |PanDuh - Pandas Made Easy | Picachu   | [Demo](https://dozw7xoy73.execute-api.us-east-1.amazonaws.com/Prod/) |    ||||
 |O.O.Python                | Infinity  | [Demo](https://ykab5hzm96.execute-api.us-east-1.amazonaws.com/Prod/) |    ||||
 |tutoR                     | Oof       | [Demo](https://kh14xmo3v0.execute-api.us-east-1.amazonaws.com/default/tutor_week11_test) |    ||||
